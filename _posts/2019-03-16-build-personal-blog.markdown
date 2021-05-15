@@ -17,7 +17,7 @@ tags:
 
 也许这事以前做起来还有些麻烦，但是现在却十分简单，零基础，零投入，即刻拥有！
 
-为了让你有一个直观的感受，可以先看我快速创建的 [主页](https://allenwhm.github.io)。
+为了让你有一个直观的感受，可以先看我快速创建的 [主页](https://spw1201.github.io)。
 
 搭建个人网站的方式有很多种，最近发现最简单快捷的是用 [github.io](https://pages.github.com/) 。
 
@@ -68,7 +68,7 @@ Project from Git
 
 ![clone](http://img.blog.csdn.net/20170812212250178?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWVldF9N/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-复制你的仓库地址 https://github.com/allenwhm/allenwhm.github.io.git，或者把用户名替换为你自己的即可。
+复制你的仓库地址 https://github.com/spw1201/spw1201.github.io.git，或者把用户名替换为你自己的即可。
 
 ![clone](http://img.blog.csdn.net/20170812212304942?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWVldF9N/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
@@ -103,7 +103,7 @@ Project from Git
 
 ![final](http://img.blog.csdn.net/20170812212617164?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvTWVldF9N/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
-一般在代码上传完毕之后，网站自动部署完毕，打开 [https://allenwhm.github.io](https://allenwhm.github.io)， 用户名替换为你自己的用户名即可。如果暂时404, 稍等片刻。如果一直404, 少年过来，我来教你（认真脸）。
+一般在代码上传完毕之后，网站自动部署完毕，打开 [https://spw1201.github.io](https://spw1201.github.io)， 用户名替换为你自己的用户名即可。如果暂时404, 稍等片刻。如果一直404, 少年过来，我来教你（认真脸）。
 
 简单的几个步骤，就可以拥有属于你自己的网站，还不来试试？
 

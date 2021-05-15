@@ -35,7 +35,7 @@ tags:
     npm audit fix --force
     ``` 
     至于 `npm aduit fix` 没有更新的 websocket-extensions, 
-    直接merge GitHub dependabot 提起的 [PR](https://github.com/allenwhm/allenwhm.github.io/pull/2)。
+    直接merge GitHub dependabot 提起的 [PR](https://github.com/spw1201/spw1201.github.io/pull/2)。
 
 - 更正了一些单词的拼写错误
 
